@@ -1,0 +1,21 @@
+td{
+	color: red;
+	height: 20px;
+	padding: 5px;
+	text-align: left;
+}
+div{
+	color: solid-black;
+}
+table{
+	border-collapse: collapse;
+}
+table, th, td{
+	border: 1px solid-black 
+}
+th{
+	height: 35px;
+}
+preto{
+	color: black
+}
