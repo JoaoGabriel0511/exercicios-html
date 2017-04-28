@@ -1,0 +1,38 @@
+
+html{
+	background-color: #d8c2e8; 
+}
+div{
+	border-radius: 8px;
+	padding: 10px;
+}
+p{
+	color: white;
+	font-weight: bold;
+}
+.Textos{
+	color: #000000;
+    font-weight: bold;
+}
+.div-1{
+    background-color: blue;
+    width: 880px;
+    margin: 0 auto;
+}
+
+.div-2{
+    background-color: #000066;
+    width: 800px;
+    margin: 0 auto;
+}
+.div-3{
+    background-color: #d8c2e8;
+    margin: 0 auto;
+
+}
+.div-4{
+	background: #ac7ece;
+	margin: 0 auto;
+}
+
+
